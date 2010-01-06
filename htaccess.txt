@@ -1,0 +1,9 @@
+AddHandler x-httpd-php5 .php
+# 
+#### START REDIRECCIONES #####
+Options +FollowSymLinks
+RewriteEngine on
+
+##### sin-www a www #####
+RewriteCond %{HTTP_HOST} ^aikidoargentina.com [NC]
+RewriteRule ^(.*)$ http://www.aikidoargentina.com/$1 [L,R=301]

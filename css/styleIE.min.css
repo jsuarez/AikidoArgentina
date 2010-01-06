@@ -1,0 +1,9 @@
+.footer .web-amigas{margin-top:330px;float:right;text-align:left}
+.footer .content-footer{background:url(../images/background_bottom.png) no-repeat bottom center;height:447px;width:950px;text-align:left;margin:0 auto}
+.content{margin-left:30px;margin-top:250px;width:490px;background:url(../images/background_content.png) repeat top left;position:relative;z-index:1;padding-top:100px;padding-left:30px;text-align:justify;padding-bottom:5px;float:left}
+.form-contact .form-left{float:left;width:240px;margin-top:50px}
+.form-contact .form-right{float:right;width:230px;margin-top:50px}
+.container-equipamiento{margin-top:100px;width:600px;position:relative;z-index:1;margin-left:30px;padding-top:100px}
+.container-photos{width:850px;z-index:1;position:relative}
+.dropdown{position:absolute;float:left;clear:both;display:none;z-index:1000;filter:alpha(opacity=0);margin:-11px 0 0}
+.dropdown li{width:160px;float:none;display:list-item;margin-bottom:-5px}
